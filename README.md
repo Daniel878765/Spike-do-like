@@ -1,2 +1,2 @@
-# M.E.S.S.I-GOAT
+# M.E.S.S.I-
 Aula de versionamento
