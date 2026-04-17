@@ -1,2 +1,4 @@
-# M.E.S.S.I-CR7
-Aula de versionamento
+DANIEL GUIMARÃES
+RAFAEL
+GUSTAVO DE JESUS
+JORGE
